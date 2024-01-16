@@ -1,4 +1,4 @@
-# Muhammad Jawad
+# Muhammad Jawad - Full Stack Developer
 
 [![GitHub followers](https://img.shields.io/github/followers/Mjawad12?label=Follow&style=social)](https://github.com/Mjawad12)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhammad-jawad-08a793268/)
