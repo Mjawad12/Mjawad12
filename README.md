@@ -18,7 +18,7 @@ Hi there! 👋 I'm Muhammad Jawad, a passionate Full Stack Developer with expert
 ## Projects
 
 ### Post Hive
-- [Kick Kart](https://posthive-phi.vercel.app/)
+- [Post Hive](https://posthive-phi.vercel.app/)
 - A full-stack Blogging website for reading and writing blogs.
 - Features include user authentication, google login, comment system, reading list and user profiles.
 - Skills used: React, Node.js, MongoDB, Express.js, SCSS.
