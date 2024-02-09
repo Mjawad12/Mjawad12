@@ -9,13 +9,19 @@ Hi there! 👋 I'm Muhammad Jawad, a passionate Full Stack Developer with expert
 
 ## Skills
 
-- Frontend: HTML, CSS, JavaScript, React.js, SCSS
+- Frontend: HTML, CSS, JavaScript, React.js, SCSS , Tailwind css , Three js , Framer Motion
 - Backend: Node.js, Express.js
 - Database: MongoDB
-- Full Stack: MERN (MongoDB, Express.js, React.js, Node.js)
+- Full Stack: MERN (MongoDB, Express.js, React.js, Node.js), Next js
 - Version Control: Git
 
 ## Projects
+
+### Post Hive
+- [Kick Kart](https://posthive-phi.vercel.app/)
+- A full-stack Blogging website for reading and writing blogs.
+- Features include user authentication, google login, comment system, reading list and user profiles.
+- Skills used: React, Node.js, MongoDB, Express.js, SCSS.
 
 ### Kick Kart
 - [Kick Kart](https://kickkart.vercel.app/)
