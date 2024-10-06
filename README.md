@@ -47,7 +47,7 @@ Passionate about building responsive, dynamic, and impactful applications for bo
   </a>
 </p>
 
-#### -Backend
+#### ![Backend](https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=node.js&logoColor=white) -Backend
 <p align="center">
   <a href="https://nodejs.org/en/docs/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
