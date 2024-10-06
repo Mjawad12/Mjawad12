@@ -130,8 +130,8 @@ Passionate about building responsive, dynamic, and impactful applications for bo
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
 
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mjawad12&layout=compact)
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mjawad12&layout=compact" ></img>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mjawad12" ></img>
 </p>
 
 ### 🌱 I'm currently working on:
