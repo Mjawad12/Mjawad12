@@ -130,7 +130,7 @@ Passionate about building responsive, dynamic, and impactful applications for bo
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mjawad12&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mjawad12&layout=compact)
 
 ### 🌱 I'm currently working on:
 - Enhancing my expertise in **React Native** and **Next.js**.
