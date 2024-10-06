@@ -5,6 +5,8 @@
 
 Passionate about building responsive, dynamic, and impactful applications for both web and mobile. With a strong grasp of both frontend and backend development, I’ve worked on numerous projects that demonstrate my ability to create stunning UIs, efficient backends, and seamless user experiences.
 
+ <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FMjawad12%2FMjawad12.json%3Fcolor%3D#1571AC" alt="profileViews" />
+
 ### 🛠 Skills:
 
 #### -Frontend
