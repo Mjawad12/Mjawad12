@@ -10,7 +10,7 @@ Passionate about building responsive, dynamic, and impactful applications for bo
 
 ### 🛠 Skills:
 
-#### <img src="https://img.shields.io/badge/Frontend-000000?style=for-the-badge&logo=html5&logoColor=white" width="200" /> -Frontend
+#### <img src="https://img.shields.io/badge/Frontend-000000?style=for-the-badge&logo=html5&logoColor=white" width="180" /> -Frontend
 <p align="center" >
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
