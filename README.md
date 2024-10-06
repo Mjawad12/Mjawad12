@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Jawad 👋</h1>
-<hr align="center" width="90%">
+
 
 ## 🚀 Full-Stack Developer | Web & App Specialist | Freelancer
 
