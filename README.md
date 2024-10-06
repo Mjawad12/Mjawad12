@@ -129,8 +129,10 @@ Passionate about building responsive, dynamic, and impactful applications for bo
   A visually impressive 3D carousel for showcasing products or images.  
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mjawad12&layout=compact)
+<p align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mjawad12&layout=compact)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
+</p>
 
 ### 🌱 I'm currently working on:
 - Enhancing my expertise in **React Native** and **Next.js**.
