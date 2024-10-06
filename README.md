@@ -99,7 +99,7 @@ Passionate about building responsive, dynamic, and impactful applications for bo
   A website for ordering scrap pickups with reviews, built in Next.js and Resend.  
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
-- **[printOds](https://printods.com/)**  
+- **[Printods](https://printods.com/)**  
   An e-commerce site for ordering customizable shirts, featuring a 3D editor for adding text, images, and shapes.  
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white) ![Fabric.js](https://img.shields.io/badge/Fabric.js-EA2D26?style=flat&logo=fabric.js&logoColor=white)
 
@@ -107,7 +107,7 @@ Passionate about building responsive, dynamic, and impactful applications for bo
   A full-stack blogging platform for writing and reading blogs, with authentication, comments, and user profiles.  
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 
-- **[bookany.pk](https://bookany.pk/)**  
+- **[Bookany.pk](https://bookany.pk/)**  
   A flight booking website with a complete frontend.  
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
