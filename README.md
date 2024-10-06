@@ -1,43 +1,37 @@
-# Muhammad Jawad - Full Stack Developer
+# Hi, I'm Muhammad Jawad 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/Mjawad12?label=Follow&style=social)](https://github.com/Mjawad12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhammad-jawad-08a793268/)
+## 🚀 Full-Stack Developer | Web & App Specialist | Freelancer
 
-## About Me
+Passionate about building responsive, dynamic, and impactful applications for both web and mobile. With a strong grasp of both frontend and backend development, I’ve worked on numerous projects that demonstrate my ability to create stunning UIs, efficient backends, and seamless user experiences.
 
-Hi there! 👋 I'm Muhammad Jawad, a passionate Full Stack Developer with expertise in the MERN (MongoDB, Express.js, React.js, Node.js) stack. I'm committed to building seamless and engaging web applications.
+### 🛠 Skills:
+- **Frontend**: HTML, CSS, JavaScript, React.js, SCSS, Tailwind CSS, Three.js, Framer Motion, Fabric.js, GSAP, React Native
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB, SQL
+- **Full Stack**: MERN (MongoDB, Express.js, React.js, Node.js), Next.js
+- **Version Control**: Git
 
-## Skills
+### 🌐 Check out my projects:
 
-- Frontend: HTML, CSS, JavaScript, React.js, SCSS , Tailwind css , Three js , Framer Motion
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- Full Stack: MERN (MongoDB, Express.js, React.js, Node.js), Next js
-- Version Control: Git
+| Project | Description | Tech Stack |
+| ------- | ----------- | ---------- |
+| [**Post Hive**](https://posthive-phi.vercel.app/) | A full-stack blogging platform for writing and reading blogs, with authentication, comments, and user profiles. | React, Node.js, MongoDB, Express.js, SCSS |
+| [**Kick Kart**](https://kickkart.vercel.app/) | An e-commerce website for selling shoes with authentication, cart system, wishlist, and product catalog. | React, Node.js, MongoDB, Express.js, SCSS |
+| [**Swift Rentals**](https://swift-rentals.vercel.app/) | A car rental platform with user authentication, a reservation system, and a responsive design. | React, Node.js, MongoDB, Express.js |
+| [**Google Clone**](https://google-clone-pied-seven.vercel.app/) | A fun clone of Google’s search page. | Next.js |
+| [**3D Carousel**](https://fruity-omega.vercel.app/) | A visually impressive 3D carousel for showcasing products or images. | React, Three.js |
+| [**kabariya.pk**](https://kabariya.pk/) | A website for ordering scrap pickups with reviews, built in Next.js and Resend. | Next.js |
+| [**printOds**](https://printods.com/) | An e-commerce site for ordering customizable shirts, featuring a 3D editor for adding text, images, and shapes. | Next.js, Three.js, Fabric.js |
+| [**bookany.pk**](https://bookany.pk/) | A flight booking website with a complete frontend. | Next.js |
 
-## Projects
+### 🌱 I'm currently working on:
+- Enhancing my expertise in **React Native** and **Next.js**.
+- Building scalable mobile and web applications that solve real-world problems.
+- Exploring new technologies and frameworks to stay ahead in the development world.
 
-### Post Hive
-- [Post Hive](https://posthive-phi.vercel.app/)
-- A full-stack Blogging website for reading and writing blogs.
-- Features include user authentication, google login, comment system, reading list and user profiles.
-- Skills used: React, Node.js, MongoDB, Express.js, SCSS.
+### 📫 Let's connect:
+- [GitHub](https://github.com/YourGitHubUsername)
+- [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile/)
+- [Portfolio](https://YourPortfolio.com)
 
-### Kick Kart
-- [Kick Kart](https://kickkart.vercel.app/)
-- A full-stack e-commerce website for selling shoes.
-- Features include user authentication, email sending, cart system, wishlist, and product catalog.
-- Skills used: React, Node.js, MongoDB, Express.js, SCSS.
-
-### Swift Rentals
-- [Swift Rentals](https://swift-rentals.vercel.app/)
-- A full-stack car rental website with integrated user authentication, reservation system, and responsive design.
-- Skills used: React, Node.js, MongoDB, Express.js.
-
-## Let's Connect
-
-- LinkedIn: [Muhammad Jawad](https://www.linkedin.com/in/muhammad-jawad-08a793268/)
-- GitHub: [Mjawad12](https://github.com/Mjawad12)
-
-Feel free to explore my projects, and I'm open to collaboration and new opportunities. Let's build something amazing together! 🚀
-
+Feel free to check out my projects and connect with me to collaborate or chat about tech!
