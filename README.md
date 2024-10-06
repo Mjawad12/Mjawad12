@@ -10,7 +10,7 @@ Passionate about building responsive, dynamic, and impactful applications for bo
 
 ### 🛠 Skills:
 
-#### <img src="https://img.shields.io/badge/Frontend-000000?style=for-the-badge&logo=html5&logoColor=white" width="180" />
+#### <img src="https://img.shields.io/badge/Frontend-000000?style=for-the-badge&logo=html5&logoColor=white" width="120" />
 <p align="center" >
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -47,7 +47,7 @@ Passionate about building responsive, dynamic, and impactful applications for bo
   </a>
 </p>
 
-#### <img src="https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=node.js&logoColor=white" width="180" /> 
+#### <img src="https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=node.js&logoColor=white" width="120" /> 
 <p align="center">
   <a href="https://nodejs.org/en/docs/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -57,7 +57,7 @@ Passionate about building responsive, dynamic, and impactful applications for bo
   </a>
 </p>
 
-#### <img src="https://img.shields.io/badge/Database-000000?style=for-the-badge&logo=postgresql&logoColor=white" width="180" /> 
+#### <img src="https://img.shields.io/badge/Database-000000?style=for-the-badge&logo=postgresql&logoColor=white" width="120" /> 
 <p align="center">
   <a href="https://www.mongodb.com/docs/" target="_blank">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -67,7 +67,7 @@ Passionate about building responsive, dynamic, and impactful applications for bo
   </a>
 </p>
 
-#### <img src="https://img.shields.io/badge/Full%20Stack-000000?style=for-the-badge&logo=react&logoColor=white" width="180" /> 
+#### <img src="https://img.shields.io/badge/Full%20Stack-000000?style=for-the-badge&logo=react&logoColor=white" width="120" /> 
 <p align="center">
   <a href="https://www.mongodb.com/mern-stack" target="_blank">
     <img src="https://img.shields.io/badge/MERN-3C3C3D?style=for-the-badge&logo=react&logoColor=white" alt="MERN Stack" />
@@ -77,14 +77,14 @@ Passionate about building responsive, dynamic, and impactful applications for bo
   </a>
 </p>
 
-#### <img src="https://img.shields.io/badge/Version%20Control-000000?style=for-the-badge&logo=git&logoColor=white" width="200" /> 
+#### <img src="https://img.shields.io/badge/Version%20Control-000000?style=for-the-badge&logo=git&logoColor=white" width="150" /> 
 <p align="center">
   <a href="https://git-scm.com/doc" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
 </p>
 
-#### <img src="https://img.shields.io/badge/Other%20Languages-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="200" />
+#### <img src="https://img.shields.io/badge/Other%20Languages-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="150" />
 <p align="center">
   <a href="https://en.cppreference.com/w/" target="_blank">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
