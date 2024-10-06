@@ -57,7 +57,7 @@ Passionate about building responsive, dynamic, and impactful applications for bo
   </a>
 </p>
 
-#### -Database
+#### ![Database](https://img.shields.io/badge/Database-000000?style=for-the-badge&logo=postgresql&logoColor=white) -Database
 <p align="center">
   <a href="https://www.mongodb.com/docs/" target="_blank">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -67,7 +67,7 @@ Passionate about building responsive, dynamic, and impactful applications for bo
   </a>
 </p>
 
-#### -Full Stack
+#### ![Full Stack](https://img.shields.io/badge/Full%20Stack-000000?style=for-the-badge&logo=react&logoColor=white) -Full Stack
 <p align="center">
   <a href="https://www.mongodb.com/mern-stack" target="_blank">
     <img src="https://img.shields.io/badge/MERN-3C3C3D?style=for-the-badge&logo=react&logoColor=white" alt="MERN Stack" />
@@ -77,14 +77,14 @@ Passionate about building responsive, dynamic, and impactful applications for bo
   </a>
 </p>
 
-#### -Version Control
+#### ![Version Control](https://img.shields.io/badge/Version%20Control-000000?style=for-the-badge&logo=git&logoColor=white) -Version Control
 <p align="center">
   <a href="https://git-scm.com/doc" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
 </p>
 
-#### -Other Languages
+#### ![Other Languages](https://img.shields.io/badge/Other%20Languages-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white) -Other Languages
 <p align="center">
   <a href="https://en.cppreference.com/w/" target="_blank">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
