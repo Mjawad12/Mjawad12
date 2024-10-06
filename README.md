@@ -98,7 +98,7 @@ Passionate about building responsive, dynamic, and impactful applications for bo
 
 #### 🚀 Recent Work
 
-- **[kabariya.pk](https://kabariya.pk/)**  
+- **[Kabariya.pk](https://kabariya.pk/)**  
   A website for ordering scrap pickups with reviews, built in Next.js and Resend.  
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
