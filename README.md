@@ -7,7 +7,7 @@ Passionate about building responsive, dynamic, and impactful applications for bo
 
 ### 🛠 Skills:
 
-#### Frontend
+#### -Frontend
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -44,7 +44,7 @@ Passionate about building responsive, dynamic, and impactful applications for bo
   </a>
 </p>
 
-#### Backend
+#### -Backend
 <p align="center">
   <a href="https://nodejs.org/en/docs/" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -54,7 +54,7 @@ Passionate about building responsive, dynamic, and impactful applications for bo
   </a>
 </p>
 
-#### Database
+#### -Database
 <p align="center">
   <a href="https://www.mongodb.com/docs/" target="_blank">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -64,7 +64,7 @@ Passionate about building responsive, dynamic, and impactful applications for bo
   </a>
 </p>
 
-#### Full Stack
+#### -Full Stack
 <p align="center">
   <a href="https://www.mongodb.com/mern-stack" target="_blank">
     <img src="https://img.shields.io/badge/MERN-3C3C3D?style=for-the-badge&logo=react&logoColor=white" alt="MERN Stack" />
@@ -74,14 +74,14 @@ Passionate about building responsive, dynamic, and impactful applications for bo
   </a>
 </p>
 
-#### Version Control
+#### -Version Control
 <p align="center">
   <a href="https://git-scm.com/doc" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
 </p>
 
-#### Other Languages
+#### -Other Languages
 <p align="center">
   <a href="https://en.cppreference.com/w/" target="_blank">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -91,18 +91,41 @@ Passionate about building responsive, dynamic, and impactful applications for bo
   </a>
 </p>
 
-### 🌐 Check out my projects:
+### 🌐 Check Out My Projects
 
-| Project | Description | Tech Stack |
-| ------- | ----------- | ---------- |
-| [**kabariya.pk**](https://kabariya.pk/) | A website for ordering scrap pickups with reviews, built in Next.js and Resend. | Next.js |
-| [**printOds**](https://printods.com/) | An e-commerce site for ordering customizable shirts, featuring a 3D editor for adding text, images, and shapes. | Next.js, Three.js, Fabric.js |
-| [**Post Hive**](https://posthive-phi.vercel.app/) | A full-stack blogging platform for writing and reading blogs, with authentication, comments, and user profiles. | React, Node.js, MongoDB, Express.js, SCSS |
-| [**bookany.pk**](https://bookany.pk/) | A flight booking website with a complete frontend. | Next.js |
-| [**Kick Kart**](https://kickkart.vercel.app/) | An e-commerce website for selling shoes with authentication, cart system, wishlist, and product catalog. | React, Node.js, MongoDB, Express.js, SCSS |
-| [**Swift Rentals**](https://swift-rentals.vercel.app/) | A car rental platform with user authentication, a reservation system, and a responsive design. | React, Node.js, MongoDB, Express.js |
-| [**Google Clone**](https://google-clone-pied-seven.vercel.app/) | A fun clone of Google’s search page. | Next.js |
-| [**3D Carousel**](https://fruity-omega.vercel.app/) | A visually impressive 3D carousel for showcasing products or images. | React, Three.js |
+#### 🚀 Recent Work
+
+- **[kabariya.pk](https://kabariya.pk/)**  
+  A website for ordering scrap pickups with reviews, built in Next.js and Resend.  
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
+- **[printOds](https://printods.com/)**  
+  An e-commerce site for ordering customizable shirts, featuring a 3D editor for adding text, images, and shapes.  
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white) ![Fabric.js](https://img.shields.io/badge/Fabric.js-EA2D26?style=flat&logo=fabric.js&logoColor=white)
+
+- **[Post Hive](https://posthive-phi.vercel.app/)**  
+  A full-stack blogging platform for writing and reading blogs, with authentication, comments, and user profiles.  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+
+- **[bookany.pk](https://bookany.pk/)**  
+  A flight booking website with a complete frontend.  
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
+- **[Kick Kart](https://kickkart.vercel.app/)**  
+  An e-commerce website for selling shoes with authentication, cart system, wishlist, and product catalog.  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+
+- **[Swift Rentals](https://swift-rentals.vercel.app/)**  
+  A car rental platform with user authentication, a reservation system, and a responsive design.  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+
+- **[Google Clone](https://google-clone-pied-seven.vercel.app/)**  
+  A fun clone of Google’s search page.  
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
+- **[3D Carousel](https://fruity-omega.vercel.app/)**  
+  A visually impressive 3D carousel for showcasing products or images.  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
 
 ### 🌱 I'm currently working on:
 - Enhancing my expertise in **React Native** and **Next.js**.
