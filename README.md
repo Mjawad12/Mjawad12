@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhammad Jawad 👋</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Jawad</h1>
 
 
 ## 🚀 Software Engineer | Full-Stack Developer | Web & App Specialist 
