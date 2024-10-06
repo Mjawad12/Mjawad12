@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Muhammad Jawad 👋</h1>
 
 
-## 🚀 Software Engineer | Full-Stack Developer | Web & App Specialist | Freelancer
-
+## 🚀 Software Engineer | Full-Stack Developer | Web & App Specialist 
+<p align="center" >
 Passionate about building responsive, dynamic, and impactful applications for both web and mobile. With a strong grasp of both frontend and backend development, I’ve worked on numerous projects that demonstrate my ability to create stunning UIs, efficient backends, and seamless user experiences.
+</p>
 
 ![](https://komarev.com/ghpvc/?username=Mjawad12)
 
@@ -141,7 +142,7 @@ Passionate about building responsive, dynamic, and impactful applications for bo
 
 ### 📫 Let's connect:
 - [GitHub](https://github.com/YourGitHubUsername)
-- [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile/)
-- [Portfolio](https://YourPortfolio.com)
+- [LinkedIn](www.linkedin.com/in/muhammad-jawad-08a793268)
+- [Portfolio](jawad-dev-next.vercel.appjawad-dev-next.vercel.app)
 
 Feel free to check out my projects and connect with me to collaborate or chat about tech!
