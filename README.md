@@ -10,13 +10,7 @@ Passionate about building responsive, dynamic, and impactful applications for bo
 
 ### 🛠 Skills:
 
- <h4>
-   <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 24 24">
-    <path fill="#E34F26" d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-4.25-.49-7.66-3.9-7.66-8.93 0-5.03 3.41-8.44 7.66-8.93V17.93zM12 4.07c3.59.5 6.4 3.31 6.9 6.9H5.1c.5-3.59 3.31-6.4 6.9-6.9z"/>
-  </svg>
-   -Frontend
-   
- </h4>
+#### ![Frontend](https://img.shields.io/badge/Frontend-000000?style=for-the-badge&logo=html5&logoColor=white) -Frontend
 <p align="center" >
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
