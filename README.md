@@ -129,6 +129,9 @@ Passionate about building responsive, dynamic, and impactful applications for bo
   A visually impressive 3D carousel for showcasing products or images.  
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
 
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mjawad12)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🌱 I'm currently working on:
 - Enhancing my expertise in **React Native** and **Next.js**.
 - Building scalable mobile and web applications that solve real-world problems.
