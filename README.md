@@ -77,14 +77,14 @@ Passionate about building responsive, dynamic, and impactful applications for bo
   </a>
 </p>
 
-#### <img src="https://img.shields.io/badge/Version%20Control-000000?style=for-the-badge&logo=git&logoColor=white" width="180" /> 
+#### <img src="https://img.shields.io/badge/Version%20Control-000000?style=for-the-badge&logo=git&logoColor=white" width="200" /> 
 <p align="center">
   <a href="https://git-scm.com/doc" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
 </p>
 
-#### <img src="https://img.shields.io/badge/Other%20Languages-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="180" />
+#### <img src="https://img.shields.io/badge/Other%20Languages-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="200" />
 <p align="center">
   <a href="https://en.cppreference.com/w/" target="_blank">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
