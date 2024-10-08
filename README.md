@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Jawad</h1>
 
 
-## 🚀 Software Engineer | Full-Stack Developer | Web & App Specialist 
+<h2 align="center"> 🚀 Software Engineer | Full-Stack Developer | Web & App Specialist </h2>
 <p align="center" >
 Passionate about building responsive, dynamic, and impactful applications for both web and mobile. With a strong grasp of both frontend and backend development, I’ve worked on numerous projects that demonstrate my ability to create stunning UIs, efficient backends, and seamless user experiences.
 </p>
