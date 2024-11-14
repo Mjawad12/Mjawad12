@@ -141,8 +141,8 @@ Passionate about building responsive, dynamic, and impactful applications for bo
 - Exploring new technologies and frameworks to stay ahead in the development world.
 
 ### 📫 Let's connect:
-- [GitHub](https://github.com/YourGitHubUsername)
-- [LinkedIn](www.linkedin.com/in/muhammad-jawad-08a793268)
-- [Portfolio](jawad-dev-next.vercel.appjawad-dev-next.vercel.app)
+- [GitHub](https://github.com/Mjawad12)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-jawad-08a793268/)
+- [Portfolio](https://jawad-dev-next.vercel.app/)
 
 Feel free to check out my projects and connect with me to collaborate or chat about tech!
