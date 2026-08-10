@@ -1,0 +1,340 @@
+<svg viewBox="0 0 1000 400" fill="none" xmlns="http://www.w3.org/2000/svg" role="img"
+    aria-label="Muhammad Jawad — experience from 2023 to 2026 and professional statistics">
+
+    <style>
+        :root {
+            --primary: #ededed;
+            --secondary: #cfcfcf;
+            --dim: #cfcfcf;
+            --accent: #cfcfcf;
+        }
+
+        .mono {
+            font-family: "General Sans";
+        }
+
+        .secondary-font {
+            font-family:
+                ui-monospace,
+                "SFMono-Regular",
+                "SF Mono",
+                Menlo,
+                Consolas,
+                "Liberation Mono",
+                monospace;
+        }
+
+        .draw {
+            stroke-dasharray: 1000;
+            stroke-dashoffset: 1000;
+            animation: draw 1.4s cubic-bezier(.6, 0, .2, 1) forwards;
+        }
+
+        @keyframes draw {
+            to {
+                stroke-dashoffset: 0;
+            }
+        }
+
+        .glow {
+            animation:
+                glow 1.2s ease-in-out alternate-reverse infinite;
+        }
+
+        @keyframes glow {
+            from {
+                fill: #6b6b6b;
+
+            }
+
+            to {
+                fill: #ffffff;
+            }
+        }
+
+
+        .spark {
+            stroke-dasharray: 700;
+            stroke-dashoffset: 700;
+            animation:
+                draw 2.2s cubic-bezier(.6, 0, .2, 1) .35s forwards;
+        }
+
+        @keyframes draw {
+            to {
+                stroke-dashoffset: 0;
+            }
+        }
+
+
+
+        .dot {
+            opacity: 0;
+            animation: fade .4s ease forwards;
+        }
+
+        .d1 {
+            animation-delay: 1s;
+        }
+
+        .d2 {
+            animation-delay: 1.35s;
+        }
+
+        .d3 {
+            animation-delay: 1.7s;
+        }
+
+        .d4 {
+            animation-delay: 2.05s;
+        }
+
+        @keyframes fade {
+            to {
+                opacity: 1;
+            }
+        }
+
+
+
+        .rise {
+            opacity: 0;
+            animation:
+                rise .8s cubic-bezier(.2, .7, .2, 1) forwards;
+        }
+
+        .n1 {
+            animation-delay: .45s;
+        }
+
+        .n2 {
+            animation-delay: .65s;
+        }
+
+        .n3 {
+            animation-delay: .85s;
+        }
+
+        .n4 {
+            animation-delay: 1.05s;
+        }
+
+        @keyframes rise {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+
+
+        .ping {
+            animation:
+                ping 2.4s ease-out infinite;
+            transform-origin: 550px 116px;
+        }
+
+        @keyframes ping {
+            0% {
+                transform: scale(.4);
+                opacity: .9;
+            }
+
+            80%,
+            100% {
+                transform: scale(2.8);
+                opacity: 0;
+            }
+        }
+
+
+
+        @media (prefers-reduced-motion: reduce) {
+
+            .spark,
+            .dot,
+            .rise,
+            .ping {
+                animation: none;
+            }
+
+            .spark {
+                stroke-dashoffset: 0;
+            }
+
+            .dot,
+            .rise {
+                opacity: 1;
+            }
+
+            .ping {
+                opacity: 0;
+            }
+        }
+    </style>
+
+
+    <!-- Top rule -->
+    <line class="draw a1" x1="48" y1="58" x2="952" y2="58" stroke="var(--secondary)" stroke-width="1" />
+
+    <!-- Label -->
+    <g class="fade a1">
+        <text class="mono" fill="var(--secondary)" x="48" y="44" font-size="11" letter-spacing="3.5">
+            TELEMETRY — THE WORK BEHIND THE WORK
+        </text>
+    </g>
+
+
+    <g>
+
+        <text fill="var(--primary)" class="mono" x="48" y="128" font-size="25" letter-spacing="2.5">
+            EXPERIENCE · 2023 → 2026
+        </text>
+
+
+        <!-- baseline -->
+
+        <line x1="48" y1="346" x2="500" y2="346" stroke="var(--secondary)" />
+
+
+        <!-- trajectory -->
+
+        <polyline class="spark" transform="translate(0, 100)" points="
+        48,235
+        150,228
+        200,213
+        280,192
+        360,158
+        430,125
+        500,92
+      " stroke="var(--accent)" stroke-width="1.5" fill="none" />
+
+
+        <!-- points -->
+
+        <circle class="dot d1" cx="120" cy="328" r="2.5" fill="var(--bone)" />
+
+        <circle class="dot d2" cx="200" cy="313" r="2.5" fill="var(--bone)" />
+
+        <circle class="dot d3" cx="280" cy="292" r="2.5" fill="var(--bone)" />
+
+        <circle class="dot d4" cx="430" cy="225" r="2.5" fill="var(--bone)" />
+
+
+        <!-- active point -->
+
+        <circle class="ping" cx="500" cy="192" r="4" stroke="var(--accent)" fill="none" />
+
+        <circle cx="500" cy="192" r="3" fill="var(--accent)" />
+
+
+        <!-- years -->
+
+        <text fill="var(--dim)" class="mono" x="48" y="367" font-size="12" letter-spacing="1.5">
+            '23
+        </text>
+
+        <text fill="var(--dim)" class="mono" x="190" y="367" font-size="12" letter-spacing="1.5">
+            '24
+        </text>
+
+        <text fill="var(--dim)" class="mono" x="330" y="367" font-size="12" letter-spacing="1.5">
+            '25
+        </text>
+
+        <text fill="var(--dim)" class="mono" x="478" y="367" font-size="12" letter-spacing="1.5">
+            '26
+        </text>
+
+
+        <!-- label -->
+
+        <text fill="var(--secondary)" class="mono" x="48" y="398" font-size="14" letter-spacing="1.5">
+            trajectory —
+            <tspan fill="var(--primary)" class="glow">
+                accelerating
+            </tspan>
+        </text>
+
+    </g>
+
+
+    <g>
+
+        <text fill="var(--primary)" class="mono" x="570" y="128" font-size="25" letter-spacing="2.5">
+            PROFILE · CURRENT
+        </text>
+
+
+        <!-- STAT 01 -->
+
+        <g class="rise n1">
+
+            <text fill="var(--secondary)" class="font-secondary" x="570" y="195" font-size="38">
+                50+
+            </text>
+
+            <text fill="var(--secondary)" class="mono" x="665" y="189" font-size="16" letter-spacing="2.2">
+                PROJECTS DELIVERED
+            </text>
+
+        </g>
+
+
+        <!-- STAT 02 -->
+
+        <g class="rise n2">
+
+            <text fill="var(--secondary)" class="font-secondary" x="570" y="245" font-size="38">
+                3+
+            </text>
+
+            <text fill="var(--secondary)" class="mono" x="665" y="239" font-size="16" letter-spacing="2.2">
+                YEARS EXPERIENCE
+            </text>
+
+        </g>
+
+
+        <!-- STAT 03 -->
+
+        <g class="rise n3">
+
+            <text fill="var(--secondary)" class="font-secondary" x="570" y="295" font-size="38">
+                20+
+            </text>
+
+            <text fill="var(--secondary)" class="mono" x="665" y="289" font-size="16" letter-spacing="2.2">
+                HAPPY CLIENTS
+            </text>
+
+        </g>
+
+
+        <!-- STAT 04 -->
+
+        <g class="rise n4">
+
+            <text fill="var(--secondary)" class="font-secondary" x="570" y="345" font-size="38">
+                10+
+            </text>
+
+            <text fill="var(--secondary)" class="mono" x="665" y="339" font-size="16" letter-spacing="2.2">
+                3D & CUSTOMIZER PROJECTS
+            </text>
+
+        </g>
+
+
+        <!-- bottom secondary -->
+
+        <line x1="570" y1="380" x2="952" y2="380" stroke="var(--secondary)" opacity=".6" />
+
+    </g>
+
+</svg>

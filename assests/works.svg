@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1000 530" fill="none" xmlns="http://www.w3.org/2000/svg" role="img"
+<svg viewBox="0 0 1000 830" fill="none" xmlns="http://www.w3.org/2000/svg" role="img"
   aria-label="Selected works by Muhammad Jawad">
   <style>
     :root {
@@ -107,11 +107,11 @@
   </style>
 
   <!-- Top rule -->
-  <line class="draw a1" x1="48" y1="46" x2="952" y2="46" stroke="var(--secondary)" stroke-width="1" />
+  <line class="draw a1" x1="48" y1="60" x2="952" y2="60" stroke="var(--secondary)" stroke-width="1" />
 
   <!-- Label -->
   <g class="fade a1">
-    <text class="mono" fill="var(--secondary)" x="48" y="32" font-size="11" letter-spacing="3.5">
+    <text class="mono" fill="var(--secondary)" x="48" y="40" font-size="11" letter-spacing="3.5">
       SELECTED WORKS
     </text>
   </g>
@@ -123,20 +123,20 @@
 
   <g class="rise a2">
 
-    <text class="mono project-number" fill="var(--accent)" x="48" y="86" font-size="12.5" letter-spacing="1.5">
+    <text class="mono project-number" fill="var(--accent)" x="48" y="145" font-size="12.5" letter-spacing="1.5">
       01
     </text>
 
-    <text class="mono" fill="var(--primary)" x="88" y="86" font-size="26">
+    <text class="mono" fill="var(--primary)" x="88" y="145" font-size="26">
       Metzen
     </text>
 
-    <text class="mono project-meta" fill="var(--dim)" x="952" y="86" font-size="14" letter-spacing="2"
+    <text class="mono project-meta" fill="var(--dim)" x="952" y="145" font-size="14" letter-spacing="2"
       text-anchor="end">
       3D PRODUCT CUSTOMIZER
     </text>
 
-    <text class="secondary-font project-description" fill="var(--secondary)" x="88" y="108" font-size="16"
+    <text class="secondary-font project-description" fill="var(--secondary)" x="88" y="173" font-size="16"
       letter-spacing=".1">
       <tspan x="88" dy="0">
         A 3D product customization platform for personalizing apparel
@@ -149,7 +149,7 @@
   </g>
 
 
-  <line class="draw a2" x1="48" y1="146" x2="952" y2="146" stroke="var(--dim)" stroke-opacity=".22" />
+  <line class="draw a2" x1="48" y1="229" x2="952" y2="229" stroke="var(--dim)" stroke-opacity=".22" />
 
 
   <!-- =========================================
@@ -158,20 +158,20 @@
 
   <g class="rise a3">
 
-    <text class="mono project-number" fill="var(--accent)" x="48" y="178" font-size="12.5" letter-spacing="1.5">
+    <text class="mono project-number" fill="var(--accent)" x="48" y="267" font-size="12.5" letter-spacing="1.5">
       02
     </text>
 
-    <text class="mono" fill="var(--primary)" x="88" y="178" font-size="26">
+    <text class="mono" fill="var(--primary)" x="88" y="267" font-size="26">
       The Printed Company
     </text>
 
-    <text class="mono project-meta" fill="var(--dim)" x="952" y="178" font-size="14" letter-spacing="2"
+    <text class="mono project-meta" fill="var(--dim)" x="952" y="267" font-size="14" letter-spacing="2"
       text-anchor="end">
       3D GARMENT CUSTOMIZER
     </text>
 
-    <text class="secondary-font project-description" fill="var(--secondary)" x="88" y="200" font-size="16"
+    <text class="secondary-font project-description" fill="var(--secondary)" x="88" y="295" font-size="16"
       letter-spacing=".1">
       <tspan x="88" dy="0">
         A 3D garment customizer for designing t-shirts and hoodies
@@ -184,7 +184,7 @@
   </g>
 
 
-  <line class="draw a3" x1="48" y1="238" x2="952" y2="238" stroke="var(--dim)" stroke-opacity=".22" />
+  <line class="draw a3" x1="48" y1="351" x2="952" y2="351" stroke="var(--dim)" stroke-opacity=".22" />
 
 
   <!-- =========================================
@@ -193,20 +193,20 @@
 
   <g class="rise a4">
 
-    <text class="mono project-number" fill="var(--accent)" x="48" y="270" font-size="12.5" letter-spacing="1.5">
+    <text class="mono project-number" fill="var(--accent)" x="48" y="399" font-size="12.5" letter-spacing="1.5">
       03
     </text>
 
-    <text class="mono" fill="var(--primary)" x="88" y="270" font-size="26">
+    <text class="mono" fill="var(--primary)" x="88" y="399" font-size="26">
       Kabariya.pk
     </text>
 
-    <text class="mono project-meta" fill="var(--dim)" x="952" y="270" font-size="14" letter-spacing="2"
+    <text class="mono project-meta" fill="var(--dim)" x="952" y="399" font-size="14" letter-spacing="2"
       text-anchor="end">
       DIGITAL PLATFORM
     </text>
 
-    <text class="secondary-font project-description" fill="var(--secondary)" x="88" y="292" font-size="16"
+    <text class="secondary-font project-description" fill="var(--secondary)" x="88" y="427" font-size="16"
       letter-spacing=".1">
       <tspan x="88" dy="0">
         A digital scrap collection platform connecting users with local collectors
@@ -219,7 +219,7 @@
   </g>
 
 
-  <line class="draw a4" x1="48" y1="330" x2="952" y2="330" stroke="var(--dim)" stroke-opacity=".22" />
+  <line class="draw a4" x1="48" y1="483" x2="952" y2="483" stroke="var(--dim)" stroke-opacity=".22" />
 
 
   <!-- =========================================
@@ -228,20 +228,20 @@
 
   <g class="rise a5">
 
-    <text class="mono project-number" fill="var(--accent)" x="48" y="362" font-size="12.5" letter-spacing="1.5">
+    <text class="mono project-number" fill="var(--accent)" x="48" y="531" font-size="12.5" letter-spacing="1.5">
       04
     </text>
 
-    <text class="mono" fill="var(--primary)" x="88" y="362" font-size="26">
+    <text class="mono" fill="var(--primary)" x="88" y="531" font-size="26">
       Reflink
     </text>
 
-    <text class="mono project-meta" fill="var(--dim)" x="952" y="362" font-size="14" letter-spacing="2"
+    <text class="mono project-meta" fill="var(--dim)" x="952" y="531" font-size="14" letter-spacing="2"
       text-anchor="end">
       REFERRAL PLATFORM
     </text>
 
-    <text class="secondary-font project-description" fill="var(--secondary)" x="88" y="384" font-size="16"
+    <text class="secondary-font project-description" fill="var(--secondary)" x="88" y="559" font-size="16"
       letter-spacing=".1">
       <tspan x="88" dy="0">
         A referral marketing platform for running campaigns, tracking referrals,
@@ -254,7 +254,7 @@
   </g>
 
 
-  <line class="draw a5" x1="48" y1="422" x2="952" y2="422" stroke="var(--dim)" stroke-opacity=".22" />
+  <line class="draw a5" x1="48" y1="615" x2="952" y2="615" stroke="var(--dim)" stroke-opacity=".22" />
 
 
   <!-- =========================================
@@ -263,20 +263,20 @@
 
   <g class="rise a6">
 
-    <text class="mono project-number" fill="var(--accent)" x="48" y="454" font-size="12.5" letter-spacing="1.5">
+    <text class="mono project-number" fill="var(--accent)" x="48" y="663" font-size="12.5" letter-spacing="1.5">
       05
     </text>
 
-    <text class="mono" fill="var(--primary)" x="88" y="454" font-size="26">
+    <text class="mono" fill="var(--primary)" x="88" y="663" font-size="26">
       SockWrld
     </text>
 
-    <text class="mono project-meta" fill="var(--dim)" x="952" y="454" font-size="14" letter-spacing="2"
+    <text class="mono project-meta" fill="var(--dim)" x="952" y="663" font-size="14" letter-spacing="2"
       text-anchor="end">
       3D ECOMMERCE
     </text>
 
-    <text class="secondary-font project-description" fill="var(--secondary)" x="88" y="476" font-size="16"
+    <text class="secondary-font project-description" fill="var(--secondary)" x="88" y="691" font-size="16"
       letter-spacing=".1">
       <tspan x="88" dy="0">
         A 3D ecommerce store with sock customization, real-time previews,

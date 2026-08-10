@@ -16,3 +16,5 @@ contact@jawad.studio
 <picture><img src="/assests/about.svg" alt="About Jawad"/></picture>
 
 <picture><img src="/assests/works.svg" alt="Selected Works"/></picture>
+
+<picture><img src="/assests/numbers.svg" alt="TELEMETRY"/></picture>
