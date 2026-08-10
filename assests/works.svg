@@ -1,0 +1,291 @@
+<svg viewBox="0 0 1000 530" fill="none" xmlns="http://www.w3.org/2000/svg" role="img"
+  aria-label="Selected works by Muhammad Jawad">
+  <style>
+    :root {
+      --primary: #ededed;
+      --secondary: #cfcfcf;
+      --dim: #cfcfcf;
+      --accent: #cfcfcf;
+    }
+
+    .mono {
+      font-family: "General Sans";
+    }
+
+    .secondary-font {
+      font-family:
+        ui-monospace,
+        "SFMono-Regular",
+        "SF Mono",
+        Menlo,
+        Consolas,
+        "Liberation Mono",
+        monospace;
+    }
+
+    .draw {
+      stroke-dasharray: 1000;
+      stroke-dashoffset: 1000;
+      animation: draw 1.4s cubic-bezier(.6, 0, .2, 1) forwards;
+    }
+
+    @keyframes draw {
+      to {
+        stroke-dashoffset: 0;
+      }
+    }
+
+    .rise {
+      opacity: 0;
+      animation: rise .9s cubic-bezier(.2, .7, .2, 1) forwards;
+    }
+
+    @keyframes rise {
+      from {
+        opacity: 0;
+        transform: translateY(12px);
+      }
+
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .fade {
+      opacity: 0;
+      animation: fade .7s ease forwards;
+    }
+
+    @keyframes fade {
+      to {
+        opacity: 1;
+      }
+    }
+
+    .a1 {
+      animation-delay: .2s;
+    }
+
+    .a2 {
+      animation-delay: .5s;
+    }
+
+    .a3 {
+      animation-delay: .9s;
+    }
+
+    .a4 {
+      animation-delay: 1.2s;
+    }
+
+    .a5 {
+      animation-delay: 1.5s;
+    }
+
+    .a6 {
+      animation-delay: 1.8s;
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+
+      .draw,
+      .rise,
+      .fade {
+        animation: none;
+      }
+
+      .draw {
+        stroke-dashoffset: 0;
+      }
+
+      .rise,
+      .fade {
+        opacity: 1;
+      }
+    }
+  </style>
+
+  <!-- Top rule -->
+  <line class="draw a1" x1="48" y1="46" x2="952" y2="46" stroke="var(--secondary)" stroke-width="1" />
+
+  <!-- Label -->
+  <g class="fade a1">
+    <text class="mono" fill="var(--secondary)" x="48" y="32" font-size="11" letter-spacing="3.5">
+      SELECTED WORKS
+    </text>
+  </g>
+
+
+  <!-- =========================================
+       PROJECT 01
+  ========================================= -->
+
+  <g class="rise a2">
+
+    <text class="mono project-number" fill="var(--accent)" x="48" y="86" font-size="10.5" letter-spacing="1.5">
+      01
+    </text>
+
+    <text class="mono" fill="var(--primary)" x="88" y="86" font-size="21">
+      Metzen
+    </text>
+
+    <text class="mono project-meta" fill="var(--dim)" x="952" y="86" font-size="10" letter-spacing="2"
+      text-anchor="end">
+      3D PRODUCT CUSTOMIZER
+    </text>
+
+    <text class="secondary-font project-description" fill="var(--secondary)" x="88" y="108" font-size="11.5"
+      letter-spacing=".1">
+      <tspan x="88" dy="0">
+        A 3D product customization platform for personalizing apparel
+      </tspan>
+      <tspan x="88" dy="1.45em">
+        with real-time previews, colors, graphics, text, and variations.
+      </tspan>
+    </text>
+
+  </g>
+
+
+  <line class="draw a2" x1="48" y1="146" x2="952" y2="146" stroke="var(--dim)" stroke-opacity=".22" />
+
+
+  <!-- =========================================
+       PROJECT 02
+  ========================================= -->
+
+  <g class="rise a3">
+
+    <text class="mono project-number" fill="var(--accent)" x="48" y="178" font-size="10.5" letter-spacing="1.5">
+      02
+    </text>
+
+    <text class="mono" fill="var(--primary)" x="88" y="178" font-size="21">
+      The Printed Company
+    </text>
+
+    <text class="mono project-meta" fill="var(--dim)" x="952" y="178" font-size="10" letter-spacing="2"
+      text-anchor="end">
+      3D GARMENT CUSTOMIZER
+    </text>
+
+    <text class="secondary-font project-description" fill="var(--secondary)" x="88" y="200" font-size="11.5"
+      letter-spacing=".1">
+      <tspan x="88" dy="0">
+        A 3D garment customizer for designing t-shirts and hoodies
+      </tspan>
+      <tspan x="88" dy="1.45em">
+        with real-time previews, 2D editing, uploads, and print-ready exports.
+      </tspan>
+    </text>
+
+  </g>
+
+
+  <line class="draw a3" x1="48" y1="238" x2="952" y2="238" stroke="var(--dim)" stroke-opacity=".22" />
+
+
+  <!-- =========================================
+       PROJECT 03
+  ========================================= -->
+
+  <g class="rise a4">
+
+    <text class="mono project-number" fill="var(--accent)" x="48" y="270" font-size="10.5" letter-spacing="1.5">
+      03
+    </text>
+
+    <text class="mono" fill="var(--primary)" x="88" y="270" font-size="21">
+      Kabariya.pk
+    </text>
+
+    <text class="mono project-meta" fill="var(--dim)" x="952" y="270" font-size="10" letter-spacing="2"
+      text-anchor="end">
+      DIGITAL PLATFORM
+    </text>
+
+    <text class="secondary-font project-description" fill="var(--secondary)" x="88" y="292" font-size="11.5"
+      letter-spacing=".1">
+      <tspan x="88" dy="0">
+        A digital scrap collection platform connecting users with local collectors
+      </tspan>
+      <tspan x="88" dy="1.45em">
+        for doorstep pickups, transparent pricing, and efficient recycling.
+      </tspan>
+    </text>
+
+  </g>
+
+
+  <line class="draw a4" x1="48" y1="330" x2="952" y2="330" stroke="var(--dim)" stroke-opacity=".22" />
+
+
+  <!-- =========================================
+       PROJECT 04
+  ========================================= -->
+
+  <g class="rise a5">
+
+    <text class="mono project-number" fill="var(--accent)" x="48" y="362" font-size="10.5" letter-spacing="1.5">
+      04
+    </text>
+
+    <text class="mono" fill="var(--primary)" x="88" y="362" font-size="21">
+      Reflink
+    </text>
+
+    <text class="mono project-meta" fill="var(--dim)" x="952" y="362" font-size="10" letter-spacing="2"
+      text-anchor="end">
+      REFERRAL PLATFORM
+    </text>
+
+    <text class="secondary-font project-description" fill="var(--secondary)" x="88" y="384" font-size="11.5"
+      letter-spacing=".1">
+      <tspan x="88" dy="0">
+        A referral marketing platform for running campaigns, tracking referrals,
+      </tspan>
+      <tspan x="88" dy="1.45em">
+        managing rewards, and monitoring performance through dashboards.
+      </tspan>
+    </text>
+
+  </g>
+
+
+  <line class="draw a5" x1="48" y1="422" x2="952" y2="422" stroke="var(--dim)" stroke-opacity=".22" />
+
+
+  <!-- =========================================
+       PROJECT 05
+  ========================================= -->
+
+  <g class="rise a6">
+
+    <text class="mono project-number" fill="var(--accent)" x="48" y="454" font-size="10.5" letter-spacing="1.5">
+      05
+    </text>
+
+    <text class="mono" fill="var(--primary)" x="88" y="454" font-size="21">
+      SockWrld
+    </text>
+
+    <text class="mono project-meta" fill="var(--dim)" x="952" y="454" font-size="10" letter-spacing="2"
+      text-anchor="end">
+      3D ECOMMERCE
+    </text>
+
+    <text class="secondary-font project-description" fill="var(--secondary)" x="88" y="476" font-size="11.5"
+      letter-spacing=".1">
+      <tspan x="88" dy="0">
+        A 3D ecommerce store with sock customization, real-time previews,
+      </tspan>
+      <tspan x="88" dy="1.45em">
+        face cutouts, design tools, print exports, and ecommerce integration.
+      </tspan>
+    </text>
+
+  </g>
+
+</svg>
