@@ -1,0 +1,306 @@
+<svg
+  viewBox="0 0 1000 500"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+  aria-label="About Muhammad Jawad — Full Stack Developer"
+>
+  <style>
+    :root {
+      --bone: #000000;
+      --rule: #000000;
+      --muted: #000000;
+      --dim: #000000;
+      --accent: #000000;
+    }
+
+    .mono {
+      font-family:
+        ui-monospace,
+        "SFMono-Regular",
+        "SF Mono",
+        Menlo,
+        Consolas,
+        "Liberation Mono",
+        monospace;
+    }
+
+    .draw {
+      stroke-dasharray: 1000;
+      stroke-dashoffset: 1000;
+      animation: draw 1.4s cubic-bezier(.6,0,.2,1) forwards;
+    }
+
+    @keyframes draw {
+      to {
+        stroke-dashoffset: 0;
+      }
+    }
+
+    .rise {
+      opacity: 0;
+      animation: rise .9s cubic-bezier(.2,.7,.2,1) forwards;
+    }
+
+    @keyframes rise {
+      from {
+        opacity: 0;
+        transform: translateY(12px);
+      }
+
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .fade {
+      opacity: 0;
+      animation: fade .7s ease forwards;
+    }
+
+    @keyframes fade {
+      to {
+        opacity: 1;
+      }
+    }
+
+    .a1 { animation-delay: .2s; }
+    .a2 { animation-delay: .5s; }
+    .a3 { animation-delay: .9s; }
+    .a4 { animation-delay: 1.2s; }
+    .a5 { animation-delay: 1.5s; }
+    .a6 { animation-delay: 1.8s; }
+
+    @media (prefers-reduced-motion: reduce) {
+      .draw,
+      .rise,
+      .fade {
+        animation: none;
+      }
+
+      .draw {
+        stroke-dashoffset: 0;
+      }
+
+      .rise,
+      .fade {
+        opacity: 1;
+      }
+    }
+  </style>
+
+  <!-- Top rule -->
+  <line
+    class="draw a1"
+    x1="48"
+    y1="58"
+    x2="952"
+    y2="58"
+    stroke="var(--rule)"
+    stroke-width="1"
+  />
+
+  <!-- Label -->
+  <g class="fade a1">
+    <text
+      class="mono"
+      fill="var(--muted)"
+      x="48"
+      y="44"
+      font-size="11"
+      letter-spacing="3.5"
+    >
+      ABOUT / PROFILE
+    </text>
+  </g>
+
+  <!-- Heading -->
+  <g class="rise a2">
+    <text
+      class="mono"
+      fill="var(--bone)"
+      x="46"
+      y="145"
+      font-size="58"
+      letter-spacing="-2.5"
+    >
+      Building digital
+    </text>
+
+    <text
+      class="mono"
+      fill="var(--bone)"
+      x="46"
+      y="207"
+      font-size="58"
+      letter-spacing="-2.5"
+    >
+      experiences.
+    </text>
+  </g>
+
+  <!-- Description -->
+  <g class="fade a3">
+    <text
+      class="mono"
+      fill="var(--muted)"
+      x="48"
+      y="254"
+      font-size="14"
+      letter-spacing=".2"
+    >
+      I'm Muhammad Jawad, a Full Stack Developer focused on
+    </text>
+
+    <text
+      class="mono"
+      fill="var(--muted)"
+      x="48"
+      y="277"
+      font-size="14"
+      letter-spacing=".2"
+    >
+      building fast, scalable applications and immersive web experiences.
+    </text>
+
+    <text
+      class="mono"
+      fill="var(--muted)"
+      x="48"
+      y="300"
+      font-size="14"
+      letter-spacing=".2"
+    >
+      I combine engineering, interaction and 3D to turn ideas into products.
+    </text>
+  </g>
+
+  <!-- Philosophy -->
+  <g class="fade a4">
+    <text
+      class="mono"
+      fill="var(--dim)"
+      x="48"
+      y="345"
+      font-size="12.5"
+      letter-spacing="1"
+    >
+      APPROACH  ▸
+    </text>
+
+    <text
+      class="mono"
+      fill="var(--accent)"
+      x="155"
+      y="345"
+      font-size="12.5"
+      letter-spacing="1"
+    >
+      thoughtful interfaces · clean engineering · meaningful interaction
+    </text>
+  </g>
+
+  <!-- Bottom rule -->
+  <line
+    class="draw a5"
+    x1="48"
+    y1="386"
+    x2="952"
+    y2="386"
+    stroke="var(--rule)"
+    stroke-width="1"
+  />
+
+  <!-- Bottom metadata -->
+  <g class="fade a6">
+
+    <text
+      class="mono"
+      fill="var(--muted)"
+      x="48"
+      y="418"
+      font-size="11.5"
+      letter-spacing="3"
+    >
+      FULL STACK
+    </text>
+
+    <text
+      class="mono"
+      fill="var(--accent)"
+      x="170"
+      y="418"
+      font-size="11.5"
+    >
+      ·
+    </text>
+
+    <text
+      class="mono"
+      fill="var(--muted)"
+      x="200"
+      y="418"
+      font-size="11.5"
+      letter-spacing="3"
+    >
+      CREATIVE DEVELOPMENT
+    </text>
+
+    <text
+      class="mono"
+      fill="var(--accent)"
+      x="425"
+      y="418"
+      font-size="11.5"
+    >
+      ·
+    </text>
+
+    <text
+      class="mono"
+      fill="var(--muted)"
+      x="455"
+      y="418"
+      font-size="11.5"
+      letter-spacing="3"
+    >
+      3D / WEBGL
+    </text>
+
+    <text
+      class="mono"
+      fill="var(--muted)"
+      x="952"
+      y="418"
+      font-size="11.5"
+      letter-spacing="3"
+      text-anchor="end"
+    >
+      JAWAD.STUDIO
+    </text>
+
+  </g>
+
+  <!-- Small status -->
+  <g class="fade a6">
+    <circle
+      cx="48"
+      cy="458"
+      r="3"
+      fill="var(--accent)"
+    />
+
+    <text
+      class="mono"
+      fill="var(--dim)"
+      x="60"
+      y="462"
+      font-size="10.5"
+      letter-spacing="2"
+    >
+      AVAILABLE FOR SELECT PROJECTS
+    </text>
+  </g>
+
+</svg>
