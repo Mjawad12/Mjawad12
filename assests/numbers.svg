@@ -320,11 +320,11 @@
         <g class="rise n4">
 
             <text fill="var(--secondary)" class="font-secondary" x="570" y="345" font-size="38">
-                10+
+                15+
             </text>
 
             <text fill="var(--secondary)" class="mono" x="665" y="339" font-size="16" letter-spacing="2.2">
-                3D CUSTOMIZER PROJECTS
+                3D &amp; CUSTOMIZER PROJECTS
             </text>
 
         </g>
