@@ -1,17 +1,16 @@
 <div align="center">
 <picture><img src="/assests/header-v1.svg" alt="Muhammad Jawad"/></picture>
-
-<a href="https://jawad.studio"  >
-    Jawad.studio
-</a>
-<a href="https://www.linkedin.com/in/jawad-studio" >
-    LinkedIn
-</a>
-<a href="mailto:[contact@jawad.studio]"  >
-contact@jawad.studio
-</a>
-
 </div>
+<br />
+<br />
+<div  align="center">
+<a href="https://jawad.studio"><img src="https://img.shields.io/badge/jawad.studio-0d1117?style=flat-square&logoColor=ffffff" alt="Portfolio"/></picture></a>
+<a href="https://linkedin.com/in/jawad-studio"><picture><img src="https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/></picture></a>
+<a href="mailto:contact@jawad.studio"><picture><img src="https://img.shields.io/badge/contact@jawad.studio-0d1117?style=flat-square" alt="Email"/></picture></a>
+</div>
+
+<br />
+<br />
 
 <picture><img src="/assests/about.svg" alt="About Jawad"/></picture>
 

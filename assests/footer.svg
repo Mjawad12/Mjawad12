@@ -89,12 +89,12 @@
     <line class="draw" x1="48" y1="24" x2="952" y2="24" />
     <circle class="ring" cx="60" cy="64" r="5" stroke="var(--accent)" stroke-width="1" fill="none" />
     <circle class="dot" cx="60" cy="64" r="4" fill="var(--accent)" />
-    <text class="mono" x="82" y="62" font-size="16" letter-spacing="3" fill="var(--primary)">STATUS &#8212;
+    <text class="mono" x="82" y="62" font-size="20" letter-spacing="3" fill="var(--primary)">STATUS &#8212;
         BUILDING</text>
-    <text class="secondary-font" x="82" y="82" font-size="14" letter-spacing="2" fill="var(--secondary)">probably in a
+    <text class="secondary-font" x="82" y="82" font-size="16" letter-spacing="2" fill="var(--secondary)">probably in a
         terminal,
         probably past midnight</text>
-    <text class="mono" x="952" y="66" font-size="14" text-anchor="end" fill="var(--secondary)">
+    <text class="mono" x="952" y="66" font-size="16" text-anchor="end" fill="var(--secondary)">
         <a href="https://example.com" target="_blank">Jawad.studio</a>&#160;&#160;&#183;&#160;&#160;
         2026</text>
 </svg>
