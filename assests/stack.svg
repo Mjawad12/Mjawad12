@@ -96,93 +96,93 @@
 
     <!-- COLUMN RULE -->
 
-    <line x1="178" y1="78" x2="178" y2="332" stroke="var(--secondary)" stroke-width="1" opacity=".4" />
+    <line x1="210" y1="78" x2="210" y2="332" stroke="var(--secondary)" stroke-width="1" opacity=".4" />
 
 
     <!-- LANGUAGES -->
 
-    <text class="mono rise a1" x="48" y="100" font-size="11" fill="var(--secondary)" letter-spacing="2">
+    <text class="mono rise a1" x="48" y="100" font-size="13.5" fill="var(--secondary)" letter-spacing="2">
         LANGUAGES
     </text>
 
-    <text class="mono rise a1" x="200" y="100" font-size="14" fill="var(--primary)">
+    <text class="secondary-font rise a1" x="240" y="100" font-size="16" fill="var(--primary)">
         JavaScript · TypeScript · Python · Java · C++ · C# · Bash · SQL
     </text>
 
 
     <!-- FRONTEND -->
 
-    <text class="mono rise a2" x="48" y="132" font-size="11" fill="var(--secondary)" letter-spacing="2">
+    <text class="mono rise a2" x="48" y="132" font-size="13.5" fill="var(--secondary)" letter-spacing="2">
         FRONTEND
     </text>
 
-    <text class="mono rise a2" x="200" y="132" font-size="14" fill="var(--primary)">
+    <text class="secondary-font rise a2" x="240" y="132" font-size="16" fill="var(--primary)">
         React · Next.js · React Router · HTML · CSS · Sass · Tailwind CSS · Bootstrap
     </text>
 
 
     <!-- BACKEND -->
 
-    <text class="mono rise a3" x="48" y="164" font-size="11" fill="var(--secondary)" letter-spacing="2">
+    <text class="mono rise a3" x="48" y="164" font-size="13.5" fill="var(--secondary)" letter-spacing="2">
         BACKEND
     </text>
 
-    <text class="mono rise a3" x="200" y="164" font-size="14" fill="var(--primary)">
+    <text class="secondary-font rise a3" x="240" y="164" font-size="16" fill="var(--primary)">
         Node.js · Express · MongoDB · Mongoose · MySQL · PostgreSQL · Redis · Firebase
     </text>
 
 
     <!-- 3D / MOTION -->
 
-    <text class="mono rise a4" x="48" y="196" font-size="11" fill="var(--secondary)" letter-spacing="2">
+    <text class="mono rise a4" x="48" y="196" font-size="13.5" fill="var(--secondary)" letter-spacing="2">
         3D / MOTION
     </text>
 
-    <text class="mono rise a4" x="200" y="196" font-size="14" fill="var(--primary)">
+    <text class="secondary-font rise a4" x="240" y="196" font-size="16" fill="var(--primary)">
         Three.js · WebGL · GSAP · Framer Motion · Blender
     </text>
 
 
     <!-- CLOUD / DEVOPS -->
 
-    <text class="mono rise a5" x="48" y="228" font-size="11" fill="var(--secondary)" letter-spacing="2">
+    <text class="mono rise a5" x="48" y="228" font-size="13.5" fill="var(--secondary)" letter-spacing="2">
         CLOUD / DEVOPS
     </text>
 
-    <text class="mono rise a5" x="200" y="228" font-size="14" fill="var(--primary)">
+    <text class="secondary-font rise a5" x="240" y="228" font-size="16" fill="var(--primary)">
         AWS · Vercel · Docker · Nginx · Git · GitHub · npm
     </text>
 
 
     <!-- ECOMMERCE -->
 
-    <text class="mono rise a6" x="48" y="260" font-size="11" fill="var(--secondary)" letter-spacing="2">
+    <text class="mono rise a6" x="48" y="260" font-size="13.5" fill="var(--secondary)" letter-spacing="2">
         ECOMMERCE
     </text>
 
-    <text class="mono rise a6" x="200" y="260" font-size="14" fill="var(--primary)">
+    <text class="secondary-font rise a6" x="240" y="260" font-size="16" fill="var(--primary)">
         Shopify · Product Configurators · Customizers · Print Workflows
     </text>
 
 
     <!-- MOBILE -->
 
-    <text class="mono rise a7" x="48" y="292" font-size="11" fill="var(--secondary)" letter-spacing="2">
+    <text class="mono rise a7" x="48" y="292" font-size="13.5" fill="var(--secondary)" letter-spacing="2">
         MOBILE
     </text>
 
-    <text class="mono rise a7" x="200" y="292" font-size="14" fill="var(--primary)">
+    <text class="secondary-font rise a7" x="240" y="292" font-size="16" fill="var(--primary)">
         Expo · React Native
     </text>
 
 
     <!-- TOOLS -->
 
-    <text class="mono rise a8" x="48" y="324" font-size="11" fill="var(--secondary)" letter-spacing="2">
+    <text class="mono rise a8" x="48" y="324" font-size="13.5" fill="var(--secondary)" letter-spacing="2">
         TOOLS
     </text>
 
-    <text class="mono rise a8" x="200" y="324" font-size="14" fill="var(--primary)">
+    <text class="secondary-font rise a8" x="240" y="324" font-size="16" fill="var(--primary)">
         Figma · VS Code · Postman · Puppeteer · Nodemon
     </text>
 
