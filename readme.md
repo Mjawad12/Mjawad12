@@ -22,8 +22,7 @@
 
 <div align="center">
 <picture>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=MJawad12&theme=dark&border_radius=0&card_width=600&stroke=CFCFCF&ring=EDEDED&currStreakNum=EDEDED&
-currStreakLabel=CFCFCF&sideNums=EDEDED&sideLabels=CFCFCF&border=EDEDEDD5&dates=CFCFCF9D" width="50%" alt="GitHub Contributions"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=MJawad12&theme=dark&border_radius=0&card_width=600&stroke=CFCFCF&ring=EDEDED&currStreakNum=EDEDED&currStreakLabel=CFCFCF&sideNums=EDEDED&sideLabels=CFCFCF&border=EDEDEDD5&dates=CFCFCF9D" width="50%" alt="GitHub Contributions"/>
 </picture>
 </div>
 
